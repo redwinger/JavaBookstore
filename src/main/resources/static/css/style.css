@@ -1,8 +1,17 @@
 body {
-  padding-top: 20px;
-  padding-bottom: 20px;
+
 }
 
 .navbar {
   margin-bottom: 20px;
+}
+
+.container {
+
+}
+
+hr {
+    border: none;
+    height: 5px;
+    background-color: green;
 }
